@@ -5,6 +5,23 @@
       "bundler": "metro"
     },
     "name": "jobs",
-    "slug": "jobs"
+    "slug": "jobs",
+    "extra": {
+      "eas": {
+        "projectId": "31e70162-f0b2-4571-bbb8-e7981df842e3"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/31e70162-f0b2-4571-bbb8-e7981df842e3"
+    },
+    "android": {
+      "package": "com.alexempat.jobs"
+    },
+    "ios": {
+      "bundleIdentifier": "com.alexempat.jobs"
+    }
   }
 }
